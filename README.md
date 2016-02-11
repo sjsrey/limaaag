@@ -2,7 +2,7 @@
 ---
 Reproduction of results and figures for:  
 
-Rey, S.J. (2016) “Space-time patterns of rank concordance: Local indicators of mobility association with applications to spatial income inequality dynamics.” *Annals of the Association of American Geographers.* [DOI:10.1080/24694452.2016.1151336](http://dx.doi.org/10.1080/24694452.2016.1151336).
+Rey, S.J. (2016) “[Space-time patterns of rank concordance: Local indicators of mobility association with applications to spatial income inequality dynamics.](https://mpra.ub.uni-muenchen.de/69480/1/MPRA_paper_69480.pdf )” *Annals of the Association of American Geographers.* [DOI:10.1080/24694452.2016.1151336](http://dx.doi.org/10.1080/24694452.2016.1151336).
 
 
 ## Running the docker container
